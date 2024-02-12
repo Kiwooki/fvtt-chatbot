@@ -1,0 +1,24 @@
+{
+  "name": "fvtt-chatbot",
+  "title": "Foundry VTT and Gemini Chat integration",
+  "description": "Use Google Gemini in chat and for content generation.",
+  "authors": [
+    {
+      "name": "Kiwooki"
+    }
+  ],
+  "version": "0.0.1",
+  "compatibility": {
+    "minimum": "9",
+    "verified": "10"
+  },
+  "esmodules": [
+    "./fvtt-chatbot.js"
+  ],
+  "styles": [
+    "styles/fvtt-chatbot.css"
+  ],
+  "url": "https://https://github.com/Kiwooki/fvtt-chatbot",
+  "manifest": "https://raw.githubusercontent.com/Kiwooki/fvtt-chatbot/main/module.json",  
+  "download": "https://github.com/Kiwooki/fvtt-chatbot/archive/refs/heads/main.zip"
+}
